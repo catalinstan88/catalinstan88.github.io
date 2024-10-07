@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Python for Data analyis 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 - Exploratory Data Analysis (EDA) on Sales Data](https://github.com/catalinstan88/catalinstan88.github.io/blob/3904eb1d1b85e5c15396dbf9874e630186ff264a/portofolio/python/Project%201%20-%20Exploratory%20Data%20Analysis%20(EDA)%20on%20Sales%20Data/Exploratory%20Data%20Analysis%20(EDA)%20on%20Sales%20Data.ipynb)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
