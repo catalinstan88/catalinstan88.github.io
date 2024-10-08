@@ -1,3 +1,8 @@
+<b>Project 2 - Environmental Toxin Analysis in River Systems</b>
+
+
+<a href="https://catalinstan88.github.io/">Back</a>
+
 ```python
 # Import libraries
 import pandas as pd
@@ -534,9 +539,6 @@ print(f'Linear Regression Intercept: {model.intercept_}')
 
 ```python
 
-```
 
+<a href="https://catalinstan88.github.io/">Back</a>
 
-```python
-
-```
