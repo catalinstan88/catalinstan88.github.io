@@ -1,9 +1,3 @@
-<b>Project 1 - Exploratory Data Analysis (EDA) on Sales Data</b>
-
-
-<a href="https://catalinstan88.github.io/">Back</a>
-
-
 ```python
 # Importing libraries
 import pandas as pd
@@ -687,6 +681,3 @@ By leveraging these insights, GlobalMart can improve its sales performance and m
 ```python
 
 ```
-
-
-<a href="https://catalinstan88.github.io/">Back</a>
