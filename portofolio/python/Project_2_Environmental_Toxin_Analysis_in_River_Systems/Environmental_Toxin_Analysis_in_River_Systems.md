@@ -537,8 +537,5 @@ print(f'Linear Regression Intercept: {model.intercept_}')
     
 
 
-```python
-
-
 <a href="https://catalinstan88.github.io/">Back</a>
 
