@@ -6,6 +6,8 @@
 
 [Project 1 - Exploratory Data Analysis (EDA) on Sales Data](/portofolio/python/Project_1_-_Exploratory_Data_Analysis_(EDA)_on_Sales_Data/Exploratory_Data_Analysis_(EDA)_on_Sales_Data)
 
+[Presentation - Project 1 - Globalmart Sales Analysis Report](/portofolio/python/Project_1_-_Exploratory_Data_Analysis_(EDA)_on_Sales_Data/GlobalMart_Sales_Analysis_Report.pdf)
+
 ---
 [Project 2 - Environmental Toxin Analysis in River Systems](/portofolio/python/Project_2_Environmental_Toxin_Analysis_in_River_Systems/Environmental_Toxin_Analysis_in_River_Systems)
 
