@@ -8,12 +8,16 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title](/portofolio/python/Project_1_-_Exploratory_Data_Analysis_(EDA)_on_Sales_Data)
+
 
 ---
 [Project 3 Title](/sample_page) 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 4 Title](/portofolio/python/Project_1_-_Exploratory_Data_Analysis_(EDA)_on_Sales_Data/Exploratory_Data_Analysis_(EDA)_on_Sales_Data.md)
+
+
 
 ---
 
