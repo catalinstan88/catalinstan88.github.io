@@ -4,7 +4,7 @@
 
 ### Python for Data analyis 
 
-[Project 1 - Exploratory Data Analysis (EDA) on Sales Data](portofolio/python/Project 1 - Exploratory Data Analysis (EDA) on Sales Data/Exploratory Data Analysis (EDA) on Sales Data.md)
+[Project 1 - Exploratory Data Analysis (EDA) on Sales Data](/Exploratory Data Analysis (EDA) on Sales Data.md)
 
 
 ---
