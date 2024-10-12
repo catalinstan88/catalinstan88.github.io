@@ -14,27 +14,5 @@
 [Presentation - Project 2 - Environmental Toxin Analysis in River Systems](/portofolio/python/Project_2_Environmental_Toxin_Analysis_in_River_Systems/River_Toxin_Analysis_Report.pdf)
 
 ---
-[Project 3 Title](/sample_page) 
 
 ---
-
-
-
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-
