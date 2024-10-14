@@ -20,7 +20,7 @@ sns.set(style="whitegrid")
 
 ```python
 # load the dataset
-file_path = "C:/Users/ThinkPad/Desktop/Python/Portofolio Projects/IT Online/Project 1 - Exploratory Data Analysis (EDA) on Sales Data/Global_Superstore.csv"
+file_path = "Global_Superstore.csv"
 df = pd.read_csv(file_path)
 
 # Display the first few rows of the dataset
