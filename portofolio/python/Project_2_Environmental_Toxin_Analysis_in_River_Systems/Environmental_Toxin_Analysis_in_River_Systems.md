@@ -19,7 +19,7 @@ from sklearn.linear_model import LinearRegression
 
 ```python
 #Load the dataset
-data = pd.read_csv('C:/Users/ThinkPad/Desktop/Python/Portofolio Projects/IT Online/Project 2 - Environmental Toxin Analysis in River Systems/National_River_Toxin_Dataset_1.csv')
+data = pd.read_csv('National_River_Toxin_Dataset_1.csv')
 
 #Display the first few rows
 data.head()
