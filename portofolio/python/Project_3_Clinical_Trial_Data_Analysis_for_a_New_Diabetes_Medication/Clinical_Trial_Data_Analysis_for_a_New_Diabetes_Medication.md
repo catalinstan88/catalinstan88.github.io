@@ -1,3 +1,9 @@
+<b>Project 3 Clinical Trial Data Analysis for a New Diabetes Medication</b>
+
+
+<a href="https://catalinstan88.github.io/">Back</a>
+
+
 ```python
 # import required libraries
 import pandas as pd
@@ -560,7 +566,4 @@ print(f"Correlation between Duration of Diabetes and HbA1c Reduction: {correlati
     Correlation between Duration of Diabetes and HbA1c Reduction: -0.010949212625554495
     
 
-
-```python
-
-```
+<a href="https://catalinstan88.github.io/">Back</a>
