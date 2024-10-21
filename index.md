@@ -23,6 +23,14 @@
 
 ---
 
+### Power BI
+
+---
+
+[Project - Market Mindz](https://app.powerbi.com/view?r=eyJrIjoiMjExNTQwZTAtMjExZS00N2ZlLWJhOTktNzliNzFjMTQ5ZTMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+---
+
 
 
 ---
