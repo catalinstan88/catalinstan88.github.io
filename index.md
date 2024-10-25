@@ -35,5 +35,6 @@
 
 ---
 
+[Project - Infographic - Kraken Koffee Sales](https://app.powerbi.com/view?r=eyJrIjoiZWZiN2IxMGYtZmQ0Yi00MWNiLTg5MjMtOTYyYTAyNmQ2Yzk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ---
